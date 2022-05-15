@@ -1,0 +1,22 @@
+*** CS102: Lab 3 ***
+
+Five git commands :->
+---------------------------------------------------------------
+
+(i) git clone:
+This command will make a copy of project to the local directory from the Github website.
+cmd ->> git clone git@github.com:<your GitHub username>/<repository name>.git
+
+(ii) git status:
+To see the current status of the repository(main)
+
+(iii) git add:
+To add file to the github repository after creating files and folders in local repository(home).
+cmd ->> git add file_name.extension / git add .
+
+(iv) git --version:
+To check the git version or whether git is installed.
+
+(v) git push origin main:
+After commit, to push the changes to the server repository.
+---------------------------------------------------------------
