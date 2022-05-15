@@ -20,3 +20,10 @@ To check the git version or whether git is installed.
 (v) git push origin main:
 After commit, to push the changes to the server repository.
 ---------------------------------------------------------------
+
+
+*** What I have learnt in Lectures ***
+   --------------------------------
+
+Through these lectures, I learned some basic commands in git using gitbash linux terminal. Starting from downloading github desktop, creating account in github, I came to know how to control this through cmd prompt in pc. I started with creating new repositories, generating ssh keys, create and edit files, commit changes, using push and pull saving those changes in sever and local repositotry respectively. We also learned other commands for remote use, view status, view git files in terminal etc. These are almost all we covered so far. Thank you!
+_______________________________________________________________________________________
